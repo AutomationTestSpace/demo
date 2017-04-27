@@ -5,5 +5,4 @@ public class BaseTest1 {
 		System.out.print("Test class...");
 	}
 // Changed by Branch
-	// Added few more lines
 }
