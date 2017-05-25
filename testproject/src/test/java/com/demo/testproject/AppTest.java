@@ -46,9 +46,4 @@ public class AppTest extends TestCase {
 	{
 
 	}
-	
-	public void xplorerTest()
-	{
-		
-	}
 }
